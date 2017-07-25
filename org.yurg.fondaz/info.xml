@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <extension key="org.yurg.fondaz" type="module">
+  <downloadUrl>https://github.com/yurg/fondaz/archive/master.zip</downloadUrl>
   <file>fondaz</file>
   <name>Fondaz Report</name>
   <description>Fondaz Report</description>
